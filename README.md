@@ -1,4 +1,4 @@
-# Calcuadora-Simples
+# App-Calcuadora
 <p alig="center">
   <img src="banner-readme.png">
 </p>
